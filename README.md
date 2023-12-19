@@ -1,2 +1,2 @@
 # React-Projects
-This repository is a place where I push all my react related projects
+This repository is a place where I will push all my react related projects
